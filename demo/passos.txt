@@ -1,0 +1,17 @@
+$ sudo apt-get install maven
+$ sudo apt-get install openjdk-8-jdk
+- baixar chromewebdriver da versao corrente do chrome da maquina em: https://chromedriver.chromium.org/downloads
+- extrair e adicionar o chromedriver na raiz do projeto
+$ sudo chown root:root chromedriver
+$ sudo chmod +x chromedriver
+- adicionar extencao maven no vscode
+- criar projeto maven para java8
+- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.3.0
+
+//section[@data-title='Results']//a[@data-test='citation-ref']
+
+
+Tian Y, Pei K, Jana S, Ray B (2018) Deeptest: Automated testing of deep-neural-network-driven autonomous cars. In: Proceedings of the 40th International Conference on Software Engineering, ICSE ’18. ACM, New York, pp 303–314. 
+https://doi.org/10.1145/3180155.3180220
+
+"Udeshi S, Chattopadhyay S (2019) Grammar based directed testing of machine learning systems"

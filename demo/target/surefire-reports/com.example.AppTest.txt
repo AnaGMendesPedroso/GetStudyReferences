@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 27.213 s <<< FAILURE! - in com.example.AppTest
+com.example.AppTest.testePesquisa  Time elapsed: 27.12 s  <<< ERROR!
+java.lang.ClassCastException: java.lang.String cannot be cast to [Ljava.lang.String;
+	at com.example.AppTest.testePesquisa(AppTest.java:47)
+
